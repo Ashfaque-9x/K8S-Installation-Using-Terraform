@@ -1,8 +1,4 @@
 # Terraform to Bulding Kubernetes Cluster using EC2 instances
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twittwe-url]
-[![Twitter][github-shield]][github-url]
-
 I build this project to create my own lab for [Kuberntes](https://kubernetes.io/) cluster on AWS cloud using EC2 instances. I found [Terraform](https://www.terraform.io) is best tool to create my K8S lab fastly with one command 🚀.
 <p align="center">
 
@@ -85,16 +81,4 @@ terraform destroy
 <!-- CONTACT -->
 ## Contact Me
 
-Ahmad Faqehi - [iAhmad.info](https://iAhmad.info) - alfaqehi775@hotmail.com
-
-Project Link: [https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S](https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ahmad-faqehi
-[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twittwe-url]: https://twitter.com/A_F775
-[github-shield]: https://img.shields.io/badge/-github-black.svg?style=for-the-badge&logo=github&colorB=555
-[github-url]: https://github.com/Ahmad-Faqehi
+Ashfaque Ahmed Shaikh - ashfaque.s510@gmail.com
